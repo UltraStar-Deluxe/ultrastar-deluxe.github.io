@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="home">
+  <img src="{{ '/images/ultrastardx-icon.svg' | prepend: site.baseurl }}" alt="UltraStar Deluxe Logo" style="max-width: 100%; width: 256px; display: block; margin: 0 auto;" />
+  <h1 class="page-heading">About</h1>
+  <p>
+    UltraStar Deluxe is a free open source karaoke game for your PC. The gameplay experience is similar to
+    that of the commercial product SingStar™ by Sony Computer Entertainment, which is exclusively available
+    for the Playstation®.
+  </p>
+  <p>
+    Unlike SingStar™, however, UltraStar Deluxe allows users to create their own songs
+    and sing them on their PC.
+  </p>
+  <p style="text-align: right;"><a href="{{ site.baseurl }}{% link about.md %}">Read more…</a></p>
+
+  <hr style="border: none; border-top: 1px #DDD solid; padding-bottom: 1em;" />
+
+  <h1 class="page-heading">News</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
