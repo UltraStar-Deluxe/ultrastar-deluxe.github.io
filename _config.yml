@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: UltraStar Deluxe
 email: usdx@basisbit.de
 description: >
   A free and open source karaoke game inspired by the Singstar™
-  game, runs on Windows, Linux and OS X.
+  game, runs on Windows, Linux and macOS.
 baseurl: ""
 url: "https://ultrastar-deluxe.github.io" # the base hostname & protocol for your site
 # twitter_username: ultrastardx
