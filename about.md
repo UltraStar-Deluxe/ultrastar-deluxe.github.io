@@ -7,7 +7,7 @@ permalink: /about/
 UltraStar Deluxe is a free OpenSource karaoke game for your PC. The gameplay experience is similar to
 that of the commercial product SingStar™ by Sony Computer Entertainment, which is exclusively available
 for the Playstation®. Unlike SingStar™, however, UltraStar Deluxe allows users to create their own songs
-and sing them on their PC2.
+and sing them on their PC.
 
 By publishing the sourcecode, we’ve enabled you to customize the game completly to your heart’s content,
 desires and particular needs. Especially you are allowed to modify the product as you wish.
