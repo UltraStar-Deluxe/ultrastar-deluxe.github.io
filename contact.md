@@ -9,13 +9,14 @@ permalink: /contact/
 *  Chat with us, using IRC: `#usdx` on `irc.freenode.net`  
    [You can use your browser as chat client!][webchat]
 *  Found a bug in USDX? Use the [bugtracker][bugtracker] to create a ticket!
-*  ( Write us a Mail: [usdx@basisbit.de](mailto:usdx@basisbit.de) )
+*  ( Write us a Mail: [contact@usdx.eu](mailto:contact@usdx.eu) )
 
 ## Forums
 
 * [german users forum][forum_de]
 * [spanish users forum][forum_es]
 * [french users forum][forum_fr]
+* [english UltraStar asia forum][forum_asia]
 
 ## Social
 
@@ -30,3 +31,4 @@ You can follow us on social network:
 [forum_de]: http://ultra-star.de/
 [forum_es]: http://ultrastar-es.org/foro/
 [forum_fr]: http://ultrastar.forumprod.com/
+[forum_asia]: http://usasian.forumotion.net/
