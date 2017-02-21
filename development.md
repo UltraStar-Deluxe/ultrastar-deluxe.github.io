@@ -34,7 +34,7 @@ Add a bug or feature suggestion: [Bugtracker on GitHub][bugs]
 Contribute a patch: Create a [Pull Request][pr] on GitHub
 
 [readme]: https://github.com/UltraStar-Deluxe/USDX/blob/master/README.md
-[USDX-repo]: https://github.com/UltraStar-Deluxe/legacy-sourceforge-svn-mirror
+[USDX-repo]: https://github.com/UltraStar-Deluxe/USDX
 [USDX-legacy]: https://github.com/Ultrastar-Deluxe/legacy-sourceforge-svn-mirror
 [wiki]: https://github.com/UltraStar-Deluxe/USDX/wiki
 [bugs]: https://github.com/UltraStar-Deluxe/USDX/issues
