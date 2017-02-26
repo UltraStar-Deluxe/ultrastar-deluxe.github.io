@@ -26,4 +26,4 @@ github_username:  UltraStar-Deluxe
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
