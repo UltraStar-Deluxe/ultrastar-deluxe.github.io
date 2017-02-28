@@ -4,7 +4,7 @@ title: Downloads
 permalink: /downloads/
 ---
 
-## Version 1.3 (Beta 2)
+## Version 1.3 (Beta 5)
 
 This is the latest beta version of UltraStar Deluxe from 2016 - what most people want to try.
 
@@ -16,7 +16,7 @@ This is the latest beta version of UltraStar Deluxe from 2016 - what most people
    - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
    - [Archlinux Aur](https://aur.archlinux.org/packages/ultrastardx-git)
 *  __macOS__
-   - To be released
+   - [Installer&Launcher](https://yaycdn.de/builds/osx/usdx/usdx_1_3_5_2017-02-27.dmg)
 
 ## Version 1.1 (Final)
 
