@@ -12,7 +12,7 @@ For linking and running the game, the following libraries are also required:
 - opencv if you want webcam support
 - projectM if you want audio visualisation support
 
-####Compiling using Lazarus
+#### Compiling using Lazarus
 1. Start Lazarus.
 2. Choose Project → Open Project … in the menu bar. A file-dialog box will show.
 3. Change to the src subdirectory of your USDX working copy (e.g. ultrastardx/src).
@@ -21,7 +21,7 @@ For linking and running the game, the following libraries are also required:
 4. Now you can compile USDX by choosing the menu entry Run → Build or pressing Ctrl+F9.
 8. If you want to compile and/or start USDX directly choose Run → Run or press F9.
 
-####Compiling on Linux/BSD using make
+#### Compiling on Linux/BSD using make
 1. make sure all required libraries are installed 
   * for current debian / ubuntu: 
     `sudo apt-get update && sudo apt-get install git fpc libsdl2-dev libsdl2-image-dev libsdl2-image-2.0-0 libsdl2-2.0-0 libsdl2-mixer-2.0-0 libsdl2-mixer-dev libsdl2-net-2.0-0 libsdl2-net-dev libsdl2-ttf-2.0-0 libsdl2-ttf-dev libsdl2-gfx-1.0-0 libsdl2-gfx-dev ffmpeg libavdevice-dev libsqlite3-0 libsqlite3-dev libpcre3 libpcre3-dev ttf-dejavu ttf-freefont portaudio19-dev lua5.1-dev libpng16-16 libopencv-highgui-dev libprojectm-dev`
@@ -37,7 +37,7 @@ For linking and running the game, the following libraries are also required:
    * or start it directly  
      `./game/ultrastardx`
 
-####Compiling on OS X
+#### Compiling on OS X
 - USDX is built using _Homebrew_ and official _FreePascal build_ (using its compiler _FPC_)
 - You can install Homebrew from [brew.sh](http://brew.sh)
 - You can get the FPC build from [freepascal.org](http://www.freepascal.org/down/i386/macosx.var)
