@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+menu: main
 ---
 
 ## Get in contact with developers:

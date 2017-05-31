@@ -2,6 +2,7 @@
 layout: page
 title: Downloads
 permalink: /downloads/
+menu: main
 ---
 
 ## Version 1.3 (Beta 5)

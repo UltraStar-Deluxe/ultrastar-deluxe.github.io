@@ -2,6 +2,7 @@
 layout: page
 title: Development
 permalink: /development/
+menu: main
 ---
 
 We are currently working on version 1.3 of UltraStar Deluxe, if you want to try the most

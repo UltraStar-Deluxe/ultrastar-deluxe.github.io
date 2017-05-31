@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+menu: main
 ---
 
 UltraStar Deluxe is a free OpenSource karaoke game for your PC. The gameplay experience is similar to
