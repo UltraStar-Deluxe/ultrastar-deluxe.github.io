@@ -5,9 +5,23 @@ permalink: /downloads/
 menu: main
 ---
 
+## Version 2017.08.0 Stable
+
+This is the current stable version of this karaoke game form 2017-08-08, what most people want to use. Changes from the 1.3 version are mostly bugfixes, stability updates, support for additional video & audio formats (up to ffmpeg 3.3) and general code cleanup.
+
+*  __Windows__
+   - [Installer](https://github.com/UltraStar-Deluxe/USDX/releases/download/v2017.8.0/UltraStar.Deluxe_v2017.8.0.stable_installer.exe)
+*  __Linux__
+   - To be released - help wanted for creating .deb and other packages!
+   - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
+   - [Archlinux Aur](https://aur.archlinux.org/packages/ultrastardx-git)
+*  __macOS__
+   - Installer&Launcher to be released once tested. Help wanted from someone running current mac OS!
+
+
 ## Version 1.3 (Beta 5)
 
-This is the latest beta version of UltraStar Deluxe from 2016 - what most people want to try.
+This is the 1.3 beta version of UltraStar Deluxe from 2016. Use this version if the above mentioned stable versions don't work for you.
 
 
 *  __Windows__
