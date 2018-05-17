@@ -11,8 +11,8 @@ This is the current stable version of this karaoke game form 2017-08-08, what mo
 
 *  __Windows__
    - [Installer](https://github.com/UltraStar-Deluxe/USDX/releases/download/v2017.8.0/UltraStar.Deluxe_v2017.8.0.stable_installer.exe)
+   - Please note: if your antimalware software says that this is possibly a virus, please feel free to tell your software provider to fix their shitty detection patterns. We are really annoyed of false positive reports, just because we also use the [NSIS 3 Installer](http://nsis.sourceforge.net/News) Also, feel free to upload that file to [virustotal.com](https://virustotal.com) - an online scanning service owned by Google Inc. that uses many different antimalware solutions.
 *  __Linux__
-   - To be released - help wanted for creating .deb and other packages!
    - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
    - [Archlinux Aur](https://aur.archlinux.org/packages/ultrastardx-git)
 *  __macOS__
