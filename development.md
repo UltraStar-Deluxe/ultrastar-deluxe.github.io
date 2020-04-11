@@ -5,7 +5,7 @@ permalink: /development/
 menu: main
 ---
 
-We are currently working on version 1.3 of UltraStar Deluxe, if you want to try the most
+If you want to try the most
 recent development version then follow one of the links to get a tutorial on how to compile it.
 
 ## Source Code (All Platforms)
