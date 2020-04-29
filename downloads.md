@@ -5,9 +5,21 @@ permalink: /downloads/
 menu: main
 ---
 
-## Version 2017.08.0 Stable
+## Version 2020.4.0 Stable
 
-This is the current stable version of this karaoke game form 2017-08-08, what most people want to use. Changes from the 1.3 version are mostly bugfixes, stability updates, support for additional video & audio formats (up to ffmpeg 3.3) and general code cleanup.
+This is the current stable version. All bug reports should be based on this version.
+
+*  __Windows__
+   - [Installer](https://github.com/UltraStar-Deluxe/USDX/releases/download/v2020.4.0/UltraStar.Deluxe_v2020.4.0.stable_installer.exe)
+*  __Linux__
+   - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
+*  __macOS__
+   - Installer & Launcher to be released once tested.
+
+
+## Version 2017.8.0 Stable
+
+Changes from the 1.3 version are mostly bugfixes, stability updates, support for additional video & audio formats (up to ffmpeg 3.3) and general code cleanup.
 
 *  __Windows__
    - [Installer](https://github.com/UltraStar-Deluxe/USDX/releases/download/v2017.8.0/UltraStar.Deluxe_v2017.8.0.stable_installer.exe)
@@ -16,7 +28,7 @@ This is the current stable version of this karaoke game form 2017-08-08, what mo
    - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
    - [Archlinux Aur](https://aur.archlinux.org/packages/ultrastardx-git)
 *  __macOS__
-   - Installer&Launcher to be released once tested. Help wanted from someone running current mac OS!
+   - [Installer & Launcher](https://github.com/UltraStar-Deluxe/USDX/releases/download/v2017.8.0/UltraStar.Deluxe_v2017.8.0.stable.dmg)
 
 
 ## Version 1.3 (Beta 5)
@@ -31,7 +43,7 @@ This is the 1.3 beta version of UltraStar Deluxe from 2016. Use this version if 
    - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
    - [Archlinux Aur](https://aur.archlinux.org/packages/ultrastardx-git)
 *  __macOS__
-   - [Installer&Launcher](https://yaycdn.de/builds/osx/usdx/usdx_1_3_5_2017-02-27.dmg)
+   - [Installer & Launcher](https://yaycdn.de/builds/osx/usdx/usdx_1_3_5_2017-02-27.dmg)
 
 ## Version 1.1 (Final)
 
