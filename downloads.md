@@ -14,7 +14,7 @@ This is the current stable version. All bug reports should be based on this vers
 *  __Linux__
    - [Build instructions](https://github.com/UltraStar-Deluxe/USDX#compiling-on-linuxbsd-using-make)
 *  __macOS__
-   - Installer & Launcher to be released once tested.
+   - [Installer & Launcher](https://github.com/UltraStar-Deluxe/USDX/releases/download/v2020.4.0/UltraStar.Deluxe-v2020.4.0.stable_macOS.dmg)
 
 
 ## Version 2017.8.0 Stable
