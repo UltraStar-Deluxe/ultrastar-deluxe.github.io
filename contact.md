@@ -9,6 +9,7 @@ menu: main
 
 *  Chat with us at [Gitter][webchat]
 *  Found a bug in UltraStar Deluxe? Use the [bugtracker][bugtracker] to create a ticket!
+*  Please do not try email support, there will be no response, please use the forums or bugtracker or the chat instead. Thank you...
 
 ## Forums
 
