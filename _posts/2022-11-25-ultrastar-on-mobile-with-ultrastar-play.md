@@ -6,11 +6,12 @@ categories: news
 ---
 Ever wanted to play UltraStar on your smartphone? Look no further!
 
-__UltraStar Play__ is a redevelopment of the UltraStar game using the Unity engine. This allows to build it not only for desktop platforms but also for Android and iOS.
+__UltraStar Play__ has been developed from scratch using the Unity game engine to support not only desktop platforms, but also smartphones, tablets, Android TV, and similar devices.
 
-The game is already fun to play, although not yet as feature complete as UltraStar Deluxe.
+The game offers some unique features, for example there is a companion app that enables to use a smartphone as microphone.
+Furthermore, there is a rich song editor with drag'n'drop editing, which can make it easier to create the songs you want.
 
-On the other hand, UltraStar Play offers some unique features, for example easy smartphone connection and a rich song editor with drag'n'drop editing.
+UltraStar Play does not yet have all the features of UltraStar Deluxe but it is nonetheless already fun to play.
 
 You can download a [pre-release on GitHub](https://github.com/UltraStar-Deluxe/Play/releases/latest).
 
