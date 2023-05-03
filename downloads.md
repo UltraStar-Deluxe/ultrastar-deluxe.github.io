@@ -16,7 +16,7 @@ Bug reports should be based on this version.
 * [2017.8.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2017.8.0)
 
 
-## Very old versions
+### Very old versions
 * 1.3 (Beta 5) (2016):
 [release page](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v1.3.5-beta) -
 [Windows](https://github.com/UltraStar-Deluxe/USDX/releases/download/v1.3.5-beta/UltraStar.Deluxe_v1.3.5.beta_installer.exe) -
