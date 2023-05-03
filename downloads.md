@@ -11,6 +11,10 @@ menu: main
 The most recent version.
 Bug reports should be based on this version.
 
+Alternative installation methods:
+[flathub](https://flathub.org/apps/eu.usdx.UltraStarDeluxe) -
+[AUR](https://aur.archlinux.org/packages/ultrastardx-git)
+
 
 ## Previous versions
 * [2023.4.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2023.4.0)
