@@ -124,7 +124,7 @@
 #### Shortcuts for sing screen
 |Keys | Action|
 | :--- | :--- |
-| S | jump forward to 5 seconds before first singing note |
+| S | Skip intro/long break |
 | R | restart playback for current song but keep scores for already sung parts |
 | A | toggle video aspect ratio between letterbox, crop and stretch |
 | V | switch between video, visualisation and background |
