@@ -12,6 +12,20 @@
 | [Shift] + F[1..12] | Save player name |
 | F[1..12] | Load player name |
 
+#### Shortcuts for sing screen
+|Keys | Action|
+| :--- | :--- |
+| S | Skip intro/long break |
+| R | restart playback for current song but keep scores for already sung parts |
+| A | toggle video aspect ratio between letterbox, crop and stretch |
+| V | switch between video, visualisation and background |
+| W | if configured and enabled, show webcam video instead as background |
+| T | toggle time displaying between total, remaining and already played time |
+| [Ctrl] + Arrow Left/Right | seek 5 seconds backward / forward |
+| [Ctrl] + [Tab] | switch visualization / camera mode |
+| [Spacebar] | pause / play |
+| [Esc] or [Backspace] | cancel current song or end early |
+
 #### Shortcuts for song selection screen
 |Keys | Action|
 | :--- | :--- |
@@ -120,17 +134,3 @@
 | [Ctrl] + 8	| increase video gap by 100                                                       |
 | 9	| decrease GAP                                                                              |
 | 0	| increase GAP                                                                              |
-
-#### Shortcuts for sing screen
-|Keys | Action|
-| :--- | :--- |
-| S | Skip intro/long break |
-| R | restart playback for current song but keep scores for already sung parts |
-| A | toggle video aspect ratio between letterbox, crop and stretch |
-| V | switch between video, visualisation and background |
-| W | if configured and enabled, show webcam video instead as background |
-| T | toggle time displaying between total, remaining and already played time |
-| [Ctrl] + Arrow Left/Right | seek 5 seconds backward / forward |
-| [Ctrl] + [Tab] | switch visualization / camera mode |
-| [Spacebar] | pause / play |
-| [Esc] or [Backspace] | cancel current song or end early |
