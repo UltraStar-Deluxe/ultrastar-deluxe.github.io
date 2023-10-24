@@ -30,7 +30,6 @@
 | D | play up to 5 random songs as medleys (if there are songs available with medley tags set, only use these, otherwise use calculated values - can be forced using shift key) |
 | E | open selected song in song editor |
 | F | add song to medley list |
-| K | toggle on/off experimental automatic voice-removal |
 | M | open the song menu |
 | P | choose a playlist for song selection |
 | R | select a random song/category |
