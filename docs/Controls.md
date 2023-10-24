@@ -6,12 +6,6 @@
 | [Tab] | show/hide help |
 | [PrintScreen] | Take a screenshot. It will be saved in the `screenshots` directory. |
 
-#### Player selection screen
-|Keys | Action|
-| :--- | :--- |
-| [Shift] + F[1..12] | Save player name |
-| F[1..12] | Load player name |
-
 #### Shortcuts for sing screen
 |Keys | Action|
 | :--- | :--- |
@@ -45,6 +39,12 @@
 | [Page down] | jump to first artist with the next letter/digit |
 | [Page up] | jump to last artist with the previous letter/digit | 
 | [Spacebar] | when a duet song is selected, switch first and second voice |
+
+#### Player selection screen
+|Keys | Action|
+| :--- | :--- |
+| [Shift] + F[1..12] | Save player name |
+| F[1..12] | Load player name |
 
 #### Joypad / Controller
 |Axis | Action|
