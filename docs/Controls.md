@@ -17,7 +17,7 @@
 | T | toggle time displaying between total, remaining and already played time |
 | [Ctrl] + Arrow Left/Right | seek 5 seconds backward / forward |
 | [Ctrl] + [Tab] | switch visualization / camera mode |
-| [Spacebar] | pause / play |
+| [Spacebar] or P | pause / play |
 | [Esc] or [Backspace] | cancel current song or end early |
 
 #### Shortcuts for song selection screen
