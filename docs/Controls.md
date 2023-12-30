@@ -10,7 +10,7 @@
 |Keys | Action|
 | :--- | :--- |
 | S | Skip intro/long break |
-| R | restart playback for current song but keep scores for already sung parts |
+| R | restart song from beginning |
 | A | toggle video aspect ratio between letterbox, crop and stretch |
 | V | switch between video, visualisation and background |
 | W | if configured and enabled, show webcam video instead as background |
