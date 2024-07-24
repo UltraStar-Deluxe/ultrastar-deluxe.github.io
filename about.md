@@ -27,7 +27,8 @@ Just try it. Completly free with more than 10.000+ songs already available.
 Get started reading our [documentation][readme] or directly [download the game][downloads].
 Use your microphones (even SingStar™ microphones will work flawlessly) and start singing.
 
-And welcome home as part of our community and the deluxe Ultrastar universe.
+And welcome home as part of our [community][official_discord] and the deluxe Ultrastar universe.
 
 [readme]: https://github.com/UltraStar-Deluxe/USDX/blob/master/README.md
 [downloads]: {{ site.baseurl }}{% link downloads.md %}
+[official_discord]: https://discord.gg/tNEXZw2QJX
