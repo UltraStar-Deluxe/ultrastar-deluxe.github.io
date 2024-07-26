@@ -36,10 +36,6 @@ You can follow us on social network:
 We're happy to team up with:
 
 * [open-music-games.org][open_music_games_org] - central hub of open source music games founded in December 2022
-* [ultrastar-play.com][ultrastar_play_com] - renewal of UltraStar Deluxe with Unity Engine
-* [vocaluxe.org][vocaluxe_org] - the original successor of UltraStar Deluxe written in C# with MS Visual Studio
-* [performous.org][performous_org] - the all-in-one music game for singing, instruments and dancing in C++
-* [melodymania.org][melodymania_org] - commercial fork of UltraStar Play on Steam to finance developement of UltraStar Play
 * [Official UltraStar Song Format][song_format] - one song format for all partner games and song editors
 
 
@@ -50,7 +46,4 @@ We're happy to team up with:
 [open_music_games_org]: https://www.open-music-games.org/
 [open_music_games_faq]: https://www.open-music-games.org/help/frequently-asked-questions
 [official_discord]: https://discord.gg/tNEXZw2QJX
-[ultrastar_play_com]: https://ultrastar-play.com/en
-[performous_org]: http://performous.org/
-[melodymania_com]: https://melodymania.org/en
 [song_format]: https://usdx.eu/format/
