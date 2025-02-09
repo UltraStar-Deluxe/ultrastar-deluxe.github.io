@@ -5,8 +5,8 @@ permalink: /downloads/
 menu: main
 ---
 
-## Current version: 2025.2.0
-[Installer, release notes and source can be found on github](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2025.2.0).
+## Current version: 2025.2.1
+[Installer, release notes and source can be found on github](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2025.2.1).
 
 The most recent version.
 Bug reports should be based on this version.
@@ -17,6 +17,7 @@ Alternative installation methods:
 
 
 ## Previous versions
+* [2025.2.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2025.2.0)
 * [2025.1.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2025.1.0)
 * [2024.10.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2024.10.0)
 * [2024.8.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2024.8.0)
