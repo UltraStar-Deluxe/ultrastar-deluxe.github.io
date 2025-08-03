@@ -16,27 +16,6 @@ When enabled, the Syncer will automatically scan downloaded audio files for loud
 ### Full Library Scanning
 For ReplayGain to work properly, your *entire* library needs to have tags. It's not good enough to write ReplayGain tags to newly added songs only. If you already have a large existing UltraStar library, you will need to write ReplayGain tags to those files too.
 
-One way to accomplish a full library scan is with [rsgain](https://github.com/complexlogic/rsgain), a cross-platform ReplayGain scanning utility. It can be installed via the [instructions on the README](https://github.com/complexlogic/rsgain?tab=readme-ov-file#installation).
-
-A comptibility preset is needed for `rsgain` to have consistency with USDB Syncer. Open a text editor of your choice, and paste the following into it:
-
-```ini
-[Global]
-Album=false
-TruePeak=true
-ClipMode=n
-OpusMode=s
-```
-
-Save this file as `usdb_syncer.ini` in the following folder depending on your platform (you will need to create this folder if it doesn't already exist):
-- Windows: `%USERPROFILE%\.rsgain\presets` (typically `C:\Users\<your username>\.rsgain\presets`)
-- macOS: `~/Library/rsgain/presets`
-- Linux: `~/.config/rsgain/presets`
-
-Execute the full library scan with the following command:
-```shell
-rsgain easy -p usdb_syncer -m MAX <path to ultrastar library>
-```
-Replace `<path to ultrastar library>` with the actual path to your UltraStar library on your filesystem. Use quotation marks if the path contains spaces.
+The easiest way to perform a full library scan is by using [UltraStar Manager](https://github.com/UltraStar-Deluxe/UltraStar-Manager), which has a built-in ReplayGain scanner since version 2.1.0. To add ReplayGain tags to your entire library, use Ctrl + A to highlight all songs, then right click and select "Calculate Song ReplayGain" from the context menu.
 
 The full library scan only needs to be performed once. In the future, when you add new songs to your UltraStar library, the Syncer will handle ReplayGain for you automatically.
