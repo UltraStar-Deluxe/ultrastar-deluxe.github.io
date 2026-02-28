@@ -49,7 +49,7 @@ Alternative installation methods:
 * 1.3 (Beta 5) (2016):
 [release page](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v1.3.5-beta) -
 [Windows](https://github.com/UltraStar-Deluxe/USDX/releases/download/v1.3.5-beta/UltraStar.Deluxe_v1.3.5.beta_installer.exe) -
-[macOS](https://yaycdn.de/builds/osx/usdx/usdx_1_3_5_2017-02-27.dmg)
+~~macOS~~
 * 1.1 (Final) (2010):
   * Windows:
     [Installer](https://sourceforge.net/projects/ultrastardx/files/UltraStar%20Deluxe/Version%201.1%20final/ultrastardx-1.1-installer-full.exe/) -
