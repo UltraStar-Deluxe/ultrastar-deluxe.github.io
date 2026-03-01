@@ -89,7 +89,9 @@
 | V	| play audio + video and follow the lyrics                                                  |
 |	                                                                                          |
 | [Ctrl] + C	    | copy current sentence                                                       |
-| [Ctrl] + V	    | paste current sentence                                                      |
+| [Ctrl] + V	    | paste current sentence (lyrics+notes)                                       |
+| [Ctrl] + [Shift] + V | paste lyrics only                                                        |
+| [Ctrl] [Alt] + V  | paste notes only                                                            |
 | [Ctrl] + Z	    | **undo last change**                                                        |
 | S	| save changes                                                                              |
 | R	| reload file without saving                                                                |
