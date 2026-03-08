@@ -88,3 +88,7 @@ In this case, `MainButtonSolo` can also be defined by the `BaseTheme`.
 
 Note: `Enabled = 0` can't be inherited.
 In the above example, if you were to set `[MainButtonSolo].Enabled = 0`, this doesn't magically also disable the `MainButtonMulti`.
+
+### 2026.3.0
+
+Any theme element whose name starts with `SongCarousel`, `SongSlotMachine`, `SongSlide` or `SongMosaic` is obsolete.
