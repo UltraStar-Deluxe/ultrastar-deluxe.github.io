@@ -8,6 +8,8 @@ The following parameters are possible. They can be joined in any possible way.
 
 - `-help` : Show help and exit
 
+- `-check-songs` : Check all songs at startup and log any issues
+
 - `-Benchmark`         : Create a benchmark.log file with start timings.
 
 - `-NoLog`    	       : Do not create any .log files
