@@ -6,6 +6,8 @@ shortcut or starting the game within the console.
 
 The following parameters are possible. They can be joined in any possible way.
 
+- `-help` : Show help and exit
+
 - `-Benchmark`         : Create a benchmark.log file with start timings.
 
 - `-NoLog`    	       : Do not create any .log files
