@@ -19,3 +19,12 @@ For ReplayGain to work properly, your *entire* library needs to have tags. It's 
 The easiest way to perform a full library scan is by using [UltraStar Manager](https://github.com/UltraStar-Deluxe/UltraStar-Manager), which has a built-in ReplayGain scanner since version 2.1.0. To add ReplayGain tags to your entire library, use Ctrl + A to highlight all songs, then right click and select "Calculate Song ReplayGain" from the context menu.
 
 The full library scan only needs to be performed once. In the future, when you add new songs to your UltraStar library, the Syncer will handle ReplayGain for you automatically.
+
+## Adjusting the Volume of Game Sounds
+After enabling ReplayGain, you may notice that the game-provided sounds such as the background music and menu sound effects have become loud relative to the singing music. To normalize the sound, ReplayGain generally *reduces* the volume of the audio tracks. But no ReplayGain adjustment is applied to the game-provided sounds.
+
+To counteract this effect, USDX has separate volume settings for the game-provided sounds. If you use ReplayGain, it recommended to adjust the following settings in Tools->Options->Sound:
+- BG Music Volume: Set to 40%
+- SFX Volume: Set to 60%
+
+This restores the dynamics between the music and the game-provided sounds when using ReplayGain.
