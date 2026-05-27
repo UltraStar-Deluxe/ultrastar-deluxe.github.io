@@ -7,6 +7,7 @@ docs_order: 10
 ---
 
 #### General
+
 |Keys | Action|
 | :--- | :--- |
 | [F11] | switch on the fly between windowed fullscreen and window mode |
@@ -15,6 +16,7 @@ docs_order: 10
 | [PrintScreen] | Take a screenshot. It will be saved in the `screenshots` directory. |
 
 #### Shortcuts for sing screen
+
 |Keys | Action|
 | :--- | :--- |
 | S | Skip intro/long break |
@@ -29,6 +31,7 @@ docs_order: 10
 | [Esc] or [Backspace] | cancel current song or end early |
 
 #### Shortcuts for song selection screen
+
 |Keys | Action|
 | :--- | :--- |
 | J | open the "Search for a Song" interface |
@@ -48,12 +51,14 @@ docs_order: 10
 | [Spacebar] | when a duet song is selected, switch first and second voice |
 
 #### Player selection screen
+
 |Keys | Action|
 | :--- | :--- |
 | [Shift] + F[1..12] | Save player name |
 | F[1..12] | Load player name |
 
 #### Joypad / Controller
+
 |Axis | Action|
 | :--- | :--- |
 | D-Pad | Navigation (+switching to non-mouse mode) |
@@ -61,6 +66,7 @@ docs_order: 10
 | Right Stick | Navigation |
 
 ##### Keyboard mode
+
 |Buttons | Action|
 | :--- | :--- |
 | A / Button 1 | Simulates [Enter] |
@@ -69,6 +75,7 @@ docs_order: 10
 | X / Button 4 | Simulates [R] |
 
 ##### Mouse mode
+
 |Buttons | Action|
 | :--- | :--- |
 | A / Button 1 | Simulates _Left Mouse Button_ |
@@ -78,6 +85,7 @@ docs_order: 10
 | Select | Simulates [Escape] |
 
 #### Shortcuts for song editor
+
 |Keys | Action|
 | :--- | :--- |
 | Arrow Left/Right	| select previous/next syllable                                                             |
@@ -86,7 +94,7 @@ docs_order: 10
 | [Alt] + Arrow Right/Left	| move only ending of note to earlier/later                            |
 | [Shift] + Arrow Up/Down	| change pitch of selected note                                        |
 | [Shift] + Arrow Right/Left	| move the note (beginning and ending) to earlier/later            |
-|	                                                                                          |
+| | |
 | =	| increase BPM                                                                              |
 | -	| decrease BPM                                                                              |
 | F	| toggle note freestyle/normal                                                              |
@@ -95,7 +103,7 @@ docs_order: 10
 | C	| capitalize letter at the beginning of all lines                                           |
 | [Shift] + C	    | correct all spaces                                                          |
 | V	| play audio + video and follow the lyrics                                                  |
-|	                                                                                          |
+| | |
 | [Ctrl] + C	    | copy current sentence                                                       |
 | [Ctrl] + V	    | paste current sentence (lyrics+notes)                                       |
 | [Ctrl] + [Shift] + V | paste lyrics only                                                        |
@@ -106,24 +114,24 @@ docs_order: 10
 | P	| play current sentence audio                                                               |
 | [Shift] + P	| play current sentence midi                                                        |
 | [Ctrl] + [Shift] + P | play current sentence audio and midi                                      |
-|	                                                                                          |
+| | |
 | A | set/clear medley start beat                                                             |
 | [Shift] + A | set/clear medley end beat                                                     |
 | J | jump to medley start beat                                                               |
 | [Shift] + J | jump to medley end beat                                                       |
 | [Alt] + J | play medley (starting from medley start, ending at medley end)                  |
-|	                                                                                          |
+| | |
 | I | jump to preview start                                                                   |
 | [Alt] + I | play audio starting from the preview start                                      |
 | [Shift] + I | set/clear preview start at the current note's time                            |
-|	                                                                                            |
+| | |
 | [Shift] + D | divide BPM by 2 but keep correct timings                                      |
 | [Shift] + M | multiply BPM by 2 but keep correct timings                                    |
-|	                                                                                          |
+| | |
 | double click on a note	|split note in two parts on the beat at mouse cursor location          |
 | select and drag a note up/down	|change pitch of a note                                        |
 | select and drag a note left/right	|move the beginning beat of the note to earlier / later    |
-|	                                                                                          |
+| | |
 | [Ctrl] + [Del]	 | delete current note                                                      |
 | [+ on numberpad] | Increase tone of all notes by 1                                           |
 | [- on numberpad] | Decrease tone of all notes by 1                                           |
@@ -131,10 +139,10 @@ docs_order: 10
 | [Shift] + [- on numberpad] | Decrease tone of all notes by octave                                      |
 | [F4]             | enter or leave text edit mode                                            |
 | . | moves text to right in current sentence                                               |
-|	                                                                                          |
+| | |
 | 4	| copy 4 sentence                                                                             |
 | 5 | copy 5 sentence	                                                                              |
-|	                                                                                              |
+| | |
 | 7	| lower video gap by 1                                                                      |
 | [Shift] + 7	| lower video gap by 10                                                           |
 | [Ctrl] + 7	| lower video gap by 100                                                          |
