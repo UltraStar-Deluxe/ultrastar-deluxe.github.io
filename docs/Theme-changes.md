@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Theme changes
+permalink: /docs/theme-changes/
+section: docs
+docs_order: 65
+---
+
 This page lists various breaking and non-breaking theme changes that providers of custom themes will want to incorporate.
 
 ### 2025.12.0

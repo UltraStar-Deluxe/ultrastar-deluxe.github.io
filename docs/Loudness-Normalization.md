@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Loudness Normalization
+permalink: /docs/loudness-normalization/
+section: docs
+docs_order: 80
+---
+
 ## Introduction to ReplayGain
 It is desirable for each song in USDX to have equal loudness, so the audio volume does not need to be frequently adjusted while playing. However, the loudness of audio files may vary significantly.
 

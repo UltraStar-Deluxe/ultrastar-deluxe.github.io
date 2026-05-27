@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Controls
+permalink: /docs/controls/
+section: docs
+docs_order: 10
+---
+
 #### General
 |Keys | Action|
 | :--- | :--- |
@@ -36,7 +44,7 @@
 | [Alt] + [_Character_] | jump to artist with the first letter/digit _Character_ \(A to Z, 0 to 9\) |
 | [Alt] + [Shift] + [_Character_] | jump to title with the first letter/digit _Character_ \(A to Z, 0 to 9\) |
 | [Page down] | jump to first artist with the next letter/digit |
-| [Page up] | jump to last artist with the previous letter/digit | 
+| [Page up] | jump to last artist with the previous letter/digit |
 | [Spacebar] | when a duet song is selected, switch first and second voice |
 
 #### Player selection screen
@@ -71,7 +79,7 @@
 
 #### Shortcuts for song editor
 |Keys | Action|
-| :--- | :--- | 
+| :--- | :--- |
 | Arrow Left/Right	| select previous/next syllable                                                             |
 | Arrow Down/Up	| select previous/next syllable                                                         |
 | [Ctrl] + Arrow Right/Left	| move only beginning of note to earlier/later                         |

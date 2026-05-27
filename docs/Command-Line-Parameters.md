@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Command-line parameters
+permalink: /docs/command-line-parameters/
+section: docs
+docs_order: 20
+---
+
 _Note: This is currently broken / in development._
 
 
@@ -42,11 +50,11 @@ The following parameters are possible. They can be joined in any possible way.
 
 Some Examples:
 
-Start with a resolution of 1024x768, a depth of 32 bit and in full screen mode:  
+Start with a resolution of 1024x768, a depth of 32 bit and in full screen mode:
 `ultrastar.exe -Resolution 1024x768 -Depth 32 -Fullscreen`
 
-Start without logging and with polish language  
+Start without logging and with polish language
 `ultrastar.exe -NoLog -Language polish`
 
-Start with a customs configuration file and score database:  
+Start with a customs configuration file and score database:
 `ultrastar.exe -ConfigFile "C:\Ultrastar\Configs\PartyConfig.ini" -ScoreFile "C:\Ultrastar\Scores\PartyScores.db"`

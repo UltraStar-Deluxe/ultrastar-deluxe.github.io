@@ -37,3 +37,51 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.docs-layout {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: $spacing-unit;
+}
+
+.docs-nav {
+  border-right: 1px solid $grey-color-light;
+  padding-right: $spacing-unit / 2;
+
+  h2 {
+    font-size: $base-font-size;
+    margin-bottom: $spacing-unit / 3;
+  }
+
+  ul {
+    list-style: none;
+    margin-left: 0;
+  }
+
+  li {
+    margin-bottom: 6px;
+  }
+
+  a[aria-current="page"] {
+    color: $text-color;
+    font-weight: 600;
+  }
+}
+
+.docs-content {
+  min-width: 0;
+}
+
+@include media-query($on-laptop) {
+  .docs-layout {
+    display: block;
+  }
+
+  .docs-nav {
+    border-right: 0;
+    border-bottom: 1px solid $grey-color-light;
+    margin-bottom: $spacing-unit;
+    padding-bottom: $spacing-unit / 2;
+    padding-right: 0;
+  }
+}

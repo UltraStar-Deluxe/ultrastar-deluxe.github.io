@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Lua plugins
+permalink: /docs/lua-plugins/
+section: docs
+docs_order: 70
+---
+
 USDX supports plugins written in lua. These must be placed with a `.usdx` extension in the `plugins` directory.
 
 They're mostly used in Party Mode, but they _can_ be used outside of Party Mode like so:

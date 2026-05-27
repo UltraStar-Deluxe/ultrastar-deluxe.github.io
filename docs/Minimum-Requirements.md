@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Minimum requirements
+permalink: /docs/minimum-requirements/
+section: docs
+docs_order: 50
+---
+
 * 1GHz CPU
 * OpenGL 1.2 support with current graphics card drivers installed
 * 200MB harddrive space + space for songs and videos

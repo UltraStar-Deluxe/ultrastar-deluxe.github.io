@@ -1,3 +1,11 @@
+---
+layout: docs
+title: Editor piano mode
+permalink: /docs/editor-piano-mode/
+section: docs
+docs_order: 90
+---
+
 In the Editor, `F6` toggles a piano mode, where part of the keyboard can be used to enter pitches directly.
 Pressing a key will immediately set the pitch for that note.
 In piano mode, the `Play Audio+Clicks functionality` is on `Enter` instead of `P`.

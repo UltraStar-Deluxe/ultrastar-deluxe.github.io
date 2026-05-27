@@ -12,7 +12,7 @@ recent development version then follow one of the links to get a tutorial on how
 
 *  GitHub Repository: {% include icon-github.html username="UltraStar-Deluxe" %} / [USDX][USDX-repo]
 *  GitHub Mirror of old USDX 1.1 code: {% include icon-github.html username="UltraStar-Deluxe" %} / [legacy-sourceforge-svn-mirror][USDX-legacy]
-*  Documentation: [github.com/UltraStar-Deluxe/USDX/wiki][wiki]
+*  Documentation: [usdx.eu/docs][docs]
 
 
 ### Compilation
@@ -37,7 +37,7 @@ Contribute a patch: Create a [Pull Request][pr] on GitHub
 [readme]: https://github.com/UltraStar-Deluxe/USDX/blob/master/README.md
 [USDX-repo]: https://github.com/UltraStar-Deluxe/USDX
 [USDX-legacy]: https://github.com/Ultrastar-Deluxe/legacy-sourceforge-svn-mirror
-[wiki]: https://github.com/UltraStar-Deluxe/USDX/wiki
+[docs]: {{ site.baseurl }}{% link docs/Home.md %}
 [bugs]: https://github.com/UltraStar-Deluxe/USDX/issues
 [pr]: https://github.com/UltraStar-Deluxe/mirror/pulls
 [downloads]: {{ site.baseurl }}{% link downloads.md %}
