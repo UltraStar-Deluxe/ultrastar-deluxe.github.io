@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="post docs-page">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="docs-layout">
+    <nav class="docs-nav" aria-label="Documentation">
+      <h2>Documentation</h2>
+      <ul>
+        {% assign docs_pages = site.pages | where:"section","docs" | sort:"docs_order" %}
+        {% for docs_page in docs_pages %}
+          <li>
+            <a href="{{ docs_page.url | relative_url }}"{% if docs_page.url == page.url %} aria-current="page"{% endif %}>
+              {{ docs_page.title | escape }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="post-content docs-content">
+      {{ content }}
+    </div>
+  </div>
+
+</article>

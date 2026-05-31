@@ -9,6 +9,7 @@ menu: main
 
 *  Chat with us at [Gitter][webchat]
 *  Found a bug in UltraStar Deluxe? Use the [bugtracker][bugtracker] to create a ticket!
+*  Found an issue with this website or the documentation? Use the [website issue tracker][website_bugtracker].
 *  Please do not try email support, there will be no response, please use the forums or bugtracker or the chat instead. Thank you.
 
 ## Communities & Forums
@@ -41,6 +42,7 @@ We're happy to team up with:
 
 [webchat]: https://gitter.im/UltraStar-Deluxe/USDX
 [bugtracker]: https://github.com/UltraStar-Deluxe/USDX/issues
+[website_bugtracker]: https://github.com/UltraStar-Deluxe/ultrastar-deluxe.github.io/issues
 [forum_es]: http://ultrastar-es.org/foro/
 [forum_asia]: http://usasian.forumotion.net/
 [open_music_games_org]: https://www.open-music-games.org/
