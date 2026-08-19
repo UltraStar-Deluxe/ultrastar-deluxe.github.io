@@ -5,8 +5,8 @@ permalink: /downloads/
 menu: main
 ---
 
-## Current version: 2026.8.0
-[Installer, release notes and source can be found on github](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.8.0).
+## Current version: 2026.8.1
+[Installer, release notes and source can be found on github](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.8.1).
 
 The most recent version.
 Bug reports should be based on this version.
@@ -18,6 +18,7 @@ Alternative installation methods:
 
 ## Previous versions
 * [2026.8.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.8.0)
+* [2026.6.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.6.0)
 * [2026.5.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.5.0)
 * [2026.4.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.4.0)
 * [2026.3.0](https://github.com/UltraStar-Deluxe/USDX/releases/tag/v2026.3.0)
