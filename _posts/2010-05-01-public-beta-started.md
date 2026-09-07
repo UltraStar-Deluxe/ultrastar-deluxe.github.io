@@ -16,7 +16,7 @@ you do not tell us what’s disturbing you, we cannot resolve it.
 ## Getting started
 
 Just download UltraStar Deluxe and play around with it – it’s pretty easy. If you got
-stuck, have a look in our [wiki][wiki] or ask in our forums. You could also get some help at
+stuck, have a look in our [documentation][docs] or ask in our forums. You could also get some help at
 your favorite [social network][social].
 
 ### Where can I find ubuntu packages?
@@ -56,7 +56,7 @@ is not working yet :) We’ll fix it!
 
 __Update__: Comment system should be fixed now! Awaiting your responses.
 
-[wiki]: https://github.com/UltraStar-Deluxe/USDX/wiki
+[docs]: {{ site.baseurl }}{% link docs/Home.md %}
 [social]: {{ site.baseurl }}{% link contact.md %}#social
 [dev]: {{ site.baseurl }}{% link development.md %}
 [dl-old]: {{ site.baseurl }}{% link downloads.md %}#old

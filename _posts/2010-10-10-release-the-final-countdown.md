@@ -17,7 +17,7 @@ might expect it.
 ## So what to do for now?
 
 1.  [Grab your new version here.][downloads]
-2.  [Explore our new Wiki][wiki] to get all the information you need (still in work :) )
+2.  [Explore our new Documentation][docs] to get all the information you need (still in work :) )
 
-[wiki]: https://github.com/UltraStar-Deluxe/USDX/wiki
+[docs]: {{ site.baseurl }}{% link docs/Home.md %}
 [downloads]: {{ site.baseurl }}{% link downloads.md %}
