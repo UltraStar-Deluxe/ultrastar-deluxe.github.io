@@ -100,3 +100,16 @@ In the above example, if you were to set `[MainButtonSolo].Enabled = 0`, this do
 ### 2026.3.0
 
 Any theme element whose name starts with `SongCarousel`, `SongSlotMachine`, `SongSlide` or `SongMosaic` is obsolete.
+
+### 2026.9.0
+
+Skin file changes:
+* `Top5BG` becomes `HighScoresBG`
+
+Theme changes:
+* Any section starting with `Top5` can be deleted
+* There are new sections that start with `HighScores`
+
+If you had previously customized these, search for `[HighScores` in `themes/Modern.ini`.
+The sections that start with `HighScoresRow` define the columns for the first row only.
+The new section `HighScoresListArea` defines the bottom boundary and some other parameters.
